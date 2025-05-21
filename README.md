@@ -1,5 +1,3 @@
-OBS Rumble Streaming Plugin Development Plan
-
 
 Core Functionality
 
@@ -10,6 +8,7 @@ Live Analytics: Display viewer count, stream uptime, and bandwidth stats in real
 Auto-Reconnect: Detect disconnections and reconnect automatically to minimize downtime.
 
 Stream Alerts: Trigger customizable OBS notifications when streaming starts, stops, or reconnects.
+
 
 
 Repository Layout
